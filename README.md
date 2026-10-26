@@ -8,9 +8,3 @@ Welcome to my Python repository! This repository contains my practice exercises,
 * **Functional Programming**: Lambda functions, `map`, `filter`, `any`, and `all`[cite: 26, 28, 31, 32].
 * **Object-Oriented Programming (OOP)**: Classes, inheritance, and real-world projects[cite: 30, 36].
 * **File Handling & Errors**: Reading/writing files and `try-except` blocks[cite: 16, 20].
-* **Machine Learning Basics**: Introduction to data processing and models using NumPy and Scikit-Learn[cite: 40].
-
-## 🚀 Quick Start
-```bash
-git clone [https://github.com/Sabadev49/python.git](https://github.com/Sabadev49/python.git)
-cd python
